@@ -3,6 +3,8 @@ com.scriptedmc.api.data
 com.scriptedmc.api.event
 com.scriptedmc.api.script.client
 com.scriptedmc.api.script.common
+com.scriptedmc.api.script.common.block
+com.scriptedmc.api.script.common.other
 com.scriptedmc.api.script.server
 com.scriptedmc.api.script.server.block
 com.scriptedmc.api.script.server.command
