@@ -3,7 +3,7 @@ com.scriptedmc.script.client
 com.scriptedmc.script.client.gui
 com.scriptedmc.script.client.gui.components
 com.scriptedmc.script.command
-com.scriptedmc.script.compat
+com.scriptedmc.script.compat.journeymap
 com.scriptedmc.script.creativetab
 com.scriptedmc.script.enchantment
 com.scriptedmc.script.entity
