@@ -1,9 +1,10 @@
 com.scriptedmc.script.block
+com.scriptedmc.script.block.tile
+com.scriptedmc.script.block.types
 com.scriptedmc.script.client
 com.scriptedmc.script.client.gui
 com.scriptedmc.script.client.gui.components
 com.scriptedmc.script.command
-com.scriptedmc.script.compat.journeymap
 com.scriptedmc.script.creativetab
 com.scriptedmc.script.enchantment
 com.scriptedmc.script.entity
@@ -11,7 +12,6 @@ com.scriptedmc.script.entity.player
 com.scriptedmc.script.event
 com.scriptedmc.script.event.base
 com.scriptedmc.script.event.client
-com.scriptedmc.script.event.custom
 com.scriptedmc.script.event.entity
 com.scriptedmc.script.event.item
 com.scriptedmc.script.event.world
@@ -27,6 +27,7 @@ com.scriptedmc.script.util.loot
 com.scriptedmc.script.util.nbt
 com.scriptedmc.script.util.text
 com.scriptedmc.script.world
+com.scriptedmc.script.world.scoreboard
 net.minecraftforge.fml.relauncher
 org.graalvm.polyglot
 org.graalvm.polyglot.proxy
